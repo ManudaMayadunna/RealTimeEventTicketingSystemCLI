@@ -1,0 +1,11 @@
+Dec 06, 2024 9:26:14 PM Controllers.Main main
+INFO: Real-Time Event Ticketing System Started
+Dec 06, 2024 9:26:26 PM Controllers.Main loadConfiguration
+INFO: Configuration saved to .ser file: Configuration.ser
+Dec 06, 2024 9:26:26 PM Controllers.Main loadConfiguration
+INFO: Configuration saved to JSON file: Configuration.json
+Dec 06, 2024 9:26:26 PM Controllers.Main loadConfiguration
+INFO: Configuration saved to text file: Configuration.txt
+
+Dec 06, 2024 9:26:26 PM Controllers.Main main
+INFO: Starting the system...

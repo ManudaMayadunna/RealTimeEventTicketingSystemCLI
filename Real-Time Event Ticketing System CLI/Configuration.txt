@@ -1,0 +1,4 @@
+Total Tickets= 10
+Ticket Release Rate= 1sec
+Customer Retrieval Rate= 1sec
+Max Ticket Capacity= 12
